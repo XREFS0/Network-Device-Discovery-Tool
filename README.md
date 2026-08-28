@@ -2,6 +2,8 @@
 
 A professional, high-performance desktop application built with Python and PySide6 to discover and inspect active devices on a local area network (LAN). It leverages Scapy for advanced network protocol discovery, caches results, queries local MAC manufacturer databases, resolves hostnames in background workers, and stores historical scan logs using SQLite.
 
+![Network Device Discovery Tool](ScreenShot/main_window.png)
+
 ## Features
 
 - **Network Interface Detection**: Auto-detects local interfaces, IP addresses, netmasks, and default subnets.
